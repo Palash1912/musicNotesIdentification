@@ -1,9 +1,3 @@
-% Nayiri Krzysztofowicz
-% Spring 2019
-% main program to extract notes from audio file
-% input file: FurElise_Slow.mp3
-% relies on plotsound.m file for one (optional) function
-
 %% set up song
 clear; clc; clf; close all
 
